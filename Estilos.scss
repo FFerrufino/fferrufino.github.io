@@ -391,3 +391,8 @@ html {
     flex-direction: column;
     padding: 30px;
   }
+  @media screen and (max-width: 1400px){
+    .cuerpo{
+      width: 80%;
+    }
+  }
